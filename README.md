@@ -1,6 +1,6 @@
 # Overview
 
-This repository contains a list of inputs that theoretically will beat >99% of all Pokémon Firered games.  There is no RNG manipulation involved, and there are no frame-perfect inputs required.  The sequence of inputs is static, it does not require any information from the game.  The intention of this list is to enable beating the game with no visuals/audio, or "blind and deaf".  
+This repository contains a solution i.e. list of inputs that theoretically will beat >99% of all Pokémon Firered game runs.  There is no RNG manipulation involved, and there are no frame-perfect inputs required.  The sequence of inputs is static, it does not require any information from the game.  The intention of this list is to attempt at making Pokemon Firered a [Solved Game](https://en.wikipedia.org/wiki/Solved_game).  
 
 # Contents
 
